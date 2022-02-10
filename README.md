@@ -1,2 +1,4 @@
-# webpack-demo
-Webpack 中的 Hash 模式
+# webpack5-demo
+
+## 参考
+[webpack5](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
