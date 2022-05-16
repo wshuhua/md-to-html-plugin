@@ -1,4 +1,2 @@
-# webpack5-demo
+# md-to-html-plugin
 
-## 参考
-[webpack5](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
